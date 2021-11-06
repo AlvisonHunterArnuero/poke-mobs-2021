@@ -1,0 +1,29 @@
+@import 'https://fonts.googleapis.com/css?family=Kreon:300,700';
+
+body {
+  margin: 0;
+  font-family: 'Kreon', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.thumb_pokemons {
+  transition: transform .7s ease-in-out;
+}
+.thumb_pokemons:hover {
+  transform: rotate(360deg);
+}
+
+.pokemon {
+  transition: transform .7s ease-in-out;
+}
+.pokemon:hover {
+  transform: scale(0.8);
+}
