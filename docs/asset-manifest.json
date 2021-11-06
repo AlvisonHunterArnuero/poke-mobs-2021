@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.d826a7e7.chunk.css",
-    "main.js": "./static/js/main.7ffcba89.chunk.js",
-    "main.js.map": "./static/js/main.7ffcba89.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.bddb0396.js",
-    "runtime-main.js.map": "./static/js/runtime-main.bddb0396.js.map",
-    "static/js/2.515a265f.chunk.js": "./static/js/2.515a265f.chunk.js",
-    "static/js/2.515a265f.chunk.js.map": "./static/js/2.515a265f.chunk.js.map",
-    "static/js/3.5cf786e9.chunk.js": "./static/js/3.5cf786e9.chunk.js",
-    "static/js/3.5cf786e9.chunk.js.map": "./static/js/3.5cf786e9.chunk.js.map",
-    "static/js/4.20efc1fd.chunk.js": "./static/js/4.20efc1fd.chunk.js",
-    "static/js/4.20efc1fd.chunk.js.map": "./static/js/4.20efc1fd.chunk.js.map",
-    "static/js/5.76fe6bad.chunk.js": "./static/js/5.76fe6bad.chunk.js",
-    "static/js/5.76fe6bad.chunk.js.map": "./static/js/5.76fe6bad.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.d826a7e7.chunk.css.map": "./static/css/main.d826a7e7.chunk.css.map",
-    "static/js/2.515a265f.chunk.js.LICENSE.txt": "./static/js/2.515a265f.chunk.js.LICENSE.txt"
+    "main.css": "/poke-mobs-2021/static/css/main.d826a7e7.chunk.css",
+    "main.js": "/poke-mobs-2021/static/js/main.a569b102.chunk.js",
+    "main.js.map": "/poke-mobs-2021/static/js/main.a569b102.chunk.js.map",
+    "runtime-main.js": "/poke-mobs-2021/static/js/runtime-main.e9eebfe9.js",
+    "runtime-main.js.map": "/poke-mobs-2021/static/js/runtime-main.e9eebfe9.js.map",
+    "static/js/2.8f75a1f0.chunk.js": "/poke-mobs-2021/static/js/2.8f75a1f0.chunk.js",
+    "static/js/2.8f75a1f0.chunk.js.map": "/poke-mobs-2021/static/js/2.8f75a1f0.chunk.js.map",
+    "static/js/3.9a00ce42.chunk.js": "/poke-mobs-2021/static/js/3.9a00ce42.chunk.js",
+    "static/js/3.9a00ce42.chunk.js.map": "/poke-mobs-2021/static/js/3.9a00ce42.chunk.js.map",
+    "static/js/4.d50ef451.chunk.js": "/poke-mobs-2021/static/js/4.d50ef451.chunk.js",
+    "static/js/4.d50ef451.chunk.js.map": "/poke-mobs-2021/static/js/4.d50ef451.chunk.js.map",
+    "static/js/5.48bf924b.chunk.js": "/poke-mobs-2021/static/js/5.48bf924b.chunk.js",
+    "static/js/5.48bf924b.chunk.js.map": "/poke-mobs-2021/static/js/5.48bf924b.chunk.js.map",
+    "index.html": "/poke-mobs-2021/index.html",
+    "static/css/main.d826a7e7.chunk.css.map": "/poke-mobs-2021/static/css/main.d826a7e7.chunk.css.map",
+    "static/js/2.8f75a1f0.chunk.js.LICENSE.txt": "/poke-mobs-2021/static/js/2.8f75a1f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bddb0396.js",
-    "static/js/2.515a265f.chunk.js",
+    "static/js/runtime-main.e9eebfe9.js",
+    "static/js/2.8f75a1f0.chunk.js",
     "static/css/main.d826a7e7.chunk.css",
-    "static/js/main.7ffcba89.chunk.js"
+    "static/js/main.a569b102.chunk.js"
   ]
 }
