@@ -5,6 +5,7 @@ const Welcome = React.lazy(() => import("./components/Welcome"));
 const routes = [
 	{
 		path: "/",
+		exact: true,
 		name: "Welcome",
 		component: Welcome,
 	},
