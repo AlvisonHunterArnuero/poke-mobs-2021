@@ -1,2 +1,0 @@
-(this.webpackJsonppokedeck=this.webpackJsonppokedeck||[]).push([[4],{36:function(e,t,c){"use strict";c.r(t);var s=c(14),n=c(3);t.default=function(){return Object(n.jsx)("div",{className:"row justify-content-center self-align text-center",children:Object(n.jsx)(s.b,{to:"/pokerdeck",className:"display-1 text-danger",children:"POKEDEX 2021"})})}}}]);
-//# sourceMappingURL=4.d50ef451.chunk.js.map
