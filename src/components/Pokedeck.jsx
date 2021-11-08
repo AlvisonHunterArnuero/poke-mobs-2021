@@ -3,10 +3,7 @@ import { PokeDataContext } from "../context/DataProvider";
 import { Card } from "./Card";
 
 const Pokedeck = () => {
-  const { pokemonsCollection, getAPIResults } =
-    useContext(PokeDataContext);
-
- 
+  const { pokemonsCollection, getAPIResults } = useContext(PokeDataContext);
 
   useEffect(() => {
     getAPIResults();
@@ -17,7 +14,7 @@ const Pokedeck = () => {
     <Fragment>
       <div className='container-fluid mt-4 pt-4'>
         <div className='row w-100'>
-            <Card data={pokemonsCollection} />
+          {pokemonsCollection && <Card data={pokemonsCollection} />}
         </div>
       </div>
     </Fragment>
