@@ -15,7 +15,7 @@ const routes = [
 		name: "Pokedeck",
 		component: Pokedeck,
 	},
-    { path: "*", exact: true, name: "Page Not Found", component: Pokedeck },
+    { path: "*", exact: true, name: "Page Not Found", component: Welcome },
 ];
 
 export default routes;
