@@ -10,6 +10,7 @@ const routes = [
 	},
 	{
 		path: "/pokedeck",
+		exact: true,
 		name: "Pokedeck",
 		component: Pokedeck,
 	},

@@ -9,7 +9,7 @@ const Welcome = () => {
         <source src={backgroundVideo} type='video/mp4' />
       </video>
       <div className='container'>
-        <Link to='/pokerdeck' className='w-100 mx-auto'>
+        <Link to='/pokedeck' className='w-100 mx-auto'>
           <div className='row justify-content-center align-items-center intro-title w-100'>
             <div className='col-12'>
               <h1 className='text-danger display-4 small text-center'>DISCOVER THE WORLD OF</h1>
