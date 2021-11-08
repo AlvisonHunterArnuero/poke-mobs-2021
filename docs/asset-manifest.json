@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/poke-mobs-2021/static/css/main.ea4f1511.chunk.css",
-    "main.js": "/poke-mobs-2021/static/js/main.0dc2185c.chunk.js",
-    "main.js.map": "/poke-mobs-2021/static/js/main.0dc2185c.chunk.js.map",
+    "main.js": "/poke-mobs-2021/static/js/main.cc4cd66b.chunk.js",
+    "main.js.map": "/poke-mobs-2021/static/js/main.cc4cd66b.chunk.js.map",
     "runtime-main.js": "/poke-mobs-2021/static/js/runtime-main.6bae18b9.js",
     "runtime-main.js.map": "/poke-mobs-2021/static/js/runtime-main.6bae18b9.js.map",
     "static/js/2.f5f8508f.chunk.js": "/poke-mobs-2021/static/js/2.f5f8508f.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6bae18b9.js",
     "static/js/2.f5f8508f.chunk.js",
     "static/css/main.ea4f1511.chunk.css",
-    "static/js/main.0dc2185c.chunk.js"
+    "static/js/main.cc4cd66b.chunk.js"
   ]
 }
