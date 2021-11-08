@@ -8,7 +8,7 @@ import { Spinner } from "./components/Spinner";
 function App() {
   return (
     <DataProvider>
-      <Router>
+      <Router basename='/poke-mobs-2021'>
         <Suspense fallback={<Spinner />}>
           <Switch>
             {routes.map((route, idx) => {

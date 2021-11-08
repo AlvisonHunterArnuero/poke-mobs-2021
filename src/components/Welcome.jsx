@@ -9,14 +9,16 @@ const Welcome = () => {
         <source src={backgroundVideo} type='video/mp4' />
       </video>
       <div className='container'>
-        <Link to='/pokedeck' className='w-100 mx-auto'>
-          <div className='row justify-content-center align-items-center intro-title w-100'>
-            <div className='col-12'>
-              <h1 className='text-danger display-4 small text-center'>DISCOVER THE WORLD OF</h1>
-              <h1 className='text-warning display-1 text-center'>POKEMONS</h1>
+          <Link to='/pokedeck' className='w-100 mx-auto'>
+            <div className='row justify-content-center align-items-center intro-title w-100'>
+              <div className='col-12'>
+                <h1 className='text-danger display-4 small text-center'>
+                  DISCOVER THE WORLD OF
+                </h1>
+                <h1 className='text-warning display-1 text-center'>POKEMONS</h1>
+              </div>
             </div>
-          </div>
-        </Link>
+          </Link>
       </div>
     </Fragment>
   );
