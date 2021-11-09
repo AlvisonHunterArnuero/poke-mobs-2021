@@ -1,8 +1,8 @@
 import React from "react";
 
-export const DisplaySprites = ({ sprites, pokemonAnimatedViews, name }) => {
+export const DisplaySprites = ({ sprites, pokemonAnimatedViews, name, darkTheme }) => {
   return (
-    <div className='row justify-content-center border-bottom border-top border-danger my-3 py-3 text-center'>
+    <div className={`row justify-content-center border-bottom border-top ${darkTheme ? 'border-secondary': 'border-muted'} my-2 py-2 text-center`}>
       <div className='col-4'>
         <img
           src={pokemonAnimatedViews?.front_shiny || sprites?.front_shiny}
