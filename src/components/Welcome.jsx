@@ -8,18 +8,18 @@ const Welcome = () => {
       <video id='video' loop={true} autoPlay={true} muted>
         <source src={backgroundVideo} type='video/mp4' />
       </video>
-      <div className='container'>
-          <Link to='/pokedeck' className='w-100 mx-auto'>
-            <div className='row justify-content-center align-items-center intro-title w-100'>
-            <img src="..." className="img-fluid" alt="POKEMON LOGO" />
-              <div className='col-12'>
-                <h1 className='text-danger display-4 small text-center'>
-                  DISCOVER THE WORLD OF
-                </h1>
-                <h1 className='text-warning display-1 text-center'>POKEMONS</h1>
-              </div>
+      <div className='container-fluid'>
+        <Link to='/pokedeck' className='mx-auto'>
+          <div className='row justify-content-center align-items-center intro-title'>
+            <div className='col-12 text-center'>
+              <img
+                src='https://res.cloudinary.com/alvison-hunter/image/upload/v1636418425/pokemon_logo_rounded_f3yltf.png'
+                className='img-fluid grow'
+                alt='POKEMON LOGO ROUNDED'
+              />
             </div>
-          </Link>
+          </div>
+        </Link>
       </div>
     </Fragment>
   );

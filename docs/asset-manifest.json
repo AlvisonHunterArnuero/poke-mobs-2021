@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/poke-mobs-2021/static/css/main.11bb39dc.chunk.css",
+    "main.css": "/poke-mobs-2021/static/css/main.a54adb30.chunk.css",
     "main.js": "/poke-mobs-2021/static/js/main.7680609c.chunk.js",
     "main.js.map": "/poke-mobs-2021/static/js/main.7680609c.chunk.js.map",
-    "runtime-main.js": "/poke-mobs-2021/static/js/runtime-main.c922457e.js",
-    "runtime-main.js.map": "/poke-mobs-2021/static/js/runtime-main.c922457e.js.map",
+    "runtime-main.js": "/poke-mobs-2021/static/js/runtime-main.2c3f3fc0.js",
+    "runtime-main.js.map": "/poke-mobs-2021/static/js/runtime-main.2c3f3fc0.js.map",
     "static/js/2.4375bb80.chunk.js": "/poke-mobs-2021/static/js/2.4375bb80.chunk.js",
     "static/js/2.4375bb80.chunk.js.map": "/poke-mobs-2021/static/js/2.4375bb80.chunk.js.map",
     "static/js/3.ace80301.chunk.js": "/poke-mobs-2021/static/js/3.ace80301.chunk.js",
     "static/js/3.ace80301.chunk.js.map": "/poke-mobs-2021/static/js/3.ace80301.chunk.js.map",
-    "static/js/4.33e92afb.chunk.js": "/poke-mobs-2021/static/js/4.33e92afb.chunk.js",
-    "static/js/4.33e92afb.chunk.js.map": "/poke-mobs-2021/static/js/4.33e92afb.chunk.js.map",
+    "static/js/4.63d9d570.chunk.js": "/poke-mobs-2021/static/js/4.63d9d570.chunk.js",
+    "static/js/4.63d9d570.chunk.js.map": "/poke-mobs-2021/static/js/4.63d9d570.chunk.js.map",
     "static/js/5.48bf924b.chunk.js": "/poke-mobs-2021/static/js/5.48bf924b.chunk.js",
     "static/js/5.48bf924b.chunk.js.map": "/poke-mobs-2021/static/js/5.48bf924b.chunk.js.map",
     "index.html": "/poke-mobs-2021/index.html",
-    "static/css/main.11bb39dc.chunk.css.map": "/poke-mobs-2021/static/css/main.11bb39dc.chunk.css.map",
+    "static/css/main.a54adb30.chunk.css.map": "/poke-mobs-2021/static/css/main.a54adb30.chunk.css.map",
     "static/js/2.4375bb80.chunk.js.LICENSE.txt": "/poke-mobs-2021/static/js/2.4375bb80.chunk.js.LICENSE.txt",
     "static/media/pokemonIntro.f70fc2e7.mp4": "/poke-mobs-2021/static/media/pokemonIntro.f70fc2e7.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.c922457e.js",
+    "static/js/runtime-main.2c3f3fc0.js",
     "static/js/2.4375bb80.chunk.js",
-    "static/css/main.11bb39dc.chunk.css",
+    "static/css/main.a54adb30.chunk.css",
     "static/js/main.7680609c.chunk.js"
   ]
 }
