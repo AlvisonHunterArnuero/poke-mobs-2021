@@ -40,10 +40,14 @@ code {
 }
 
 .grow {
-  max-height: 80vh !important;
+  max-height: 90vh !important;
   transition: transform 0.9s ease-in-out;
 }
 
 .grow:hover {
   transform: scale(2.8);
+}
+
+.theme-switcher{
+  cursor: pointer;
 }
